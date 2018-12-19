@@ -3,8 +3,10 @@ Een website is een map met bestanden op een (server)computer die openbaar zijn g
 
 In de workshop gebruiken wij github om de site te hosten. Dit betekent dat wij onze bestanden beschikbaar gaan maken via de computers van github.
 
-Verklarende woordenlijst   
+## Verklarende woordenlijst   
 ----
+
+
 Git: Versie beheersysteem
 GitHub: een van de vele websites om samen te werken met git projecten
 GitHub Desktop: een programma die het makkelijker maakt om met git te werken. Een alternatief is de terminal gebruiken.
@@ -16,6 +18,7 @@ IP adress: de 'postcode' van de server
 Url: het mooie adres van jouw website
 Domein: het onderdeel van de url tussen `www` en `/index.html`
 DNS: Het telefoon boek die bijhoud welk domein bij welk IP adres hoort.
+
 ----
 
 ## Installeer Github Desktop
