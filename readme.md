@@ -54,9 +54,10 @@ https://github.com/join?source=experiment-header-dropdowns-home
 
 | Value 					| Type	| Value					|  TTL 	| 
 |---						|---	|---					|---	|
+|  longform.stefkors.com 	| CNAME	|  stefkors.github.io. 	|  1uur	| 
+
 <!-- |  stefkors.com 			| A  	|  192.30.252.154 		|  1uur	| 
 |  stefkors.com 			| A  	|  192.30.252.153 		|  1uur	|  -->
-|  longform.stefkors.com 	| CNAME	|  stefkors.github.io. 	|  1uur	| 
 
 3) Voeg een bestand toe aan je folder op de computer met de naam `CNAME` en als content je sub domein bijvoorbeeld `longform.stefkors.com`
 4) Via het github Desktop programma `commit` en `push` het nieuwe bestand via de zij-balk en de klop aan de bovenkant.
