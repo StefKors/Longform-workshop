@@ -3,12 +3,27 @@ Een website is een map met bestanden op een (server)computer die openbaar zijn g
 
 In de workshop gebruiken wij github om de site te hosten. Dit betekent dat wij onze bestanden beschikbaar gaan maken via de computers van github.
 
-## Install github desktop
-Om te beginnen downloaden we github desktop, dit is een handige interface om met github te werken. https://desktop.github.com/
+Verklarende woordenlijst   
+----
+Git: Versie beheersysteem
+GitHub: een van de vele websites om samen te werken met git projecten
+GitHub Desktop: een programma die het makkelijker maakt om met git te werken. Een alternatief is de terminal gebruiken.
+Repository: De folder die opgenomen is in het git systeem
+Commit: Een 'save' van de huidige staat van de folders
+Push/Pull: de manier om de folder op de server en de folder op jouw computer up to date te houden. (je duwt/push jouw wijzinging naar de server)
+GitHub Pages: de feature waarmee je de bestanden in het git versie systeem beschikbaar kan maken via een url
+IP adress: de 'postcode' van de server
+Url: het mooie adres van jouw website
+Domein: het onderdeel van de url tussen `www` en `/index.html`
+DNS: Het telefoon boek die bijhoud welk domein bij welk IP adres hoort.
+----
+
+## Installeer Github Desktop
+Om te beginnen downloaden we Github Desktop, dit is een handige interface om met GitHub te werken. https://desktop.github.com/
 
 Als hij vraag om 'git' te installeren doe dit dan. Of installeer het via de volgende site:
-MAC: https://sourceforge.net/projects/git-osx-installer/files/
-Winodws: https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe
+- MAC: https://sourceforge.net/projects/git-osx-installer/files/
+- Winodws: https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe
 
 ## Maak een account bij GitHub
 Via de volgende link kan je een account aanmaken. Kies het gratis account.
