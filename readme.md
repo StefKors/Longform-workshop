@@ -5,17 +5,17 @@ In de workshop gebruiken wij github om de site te hosten. Dit betekent dat wij o
 
 ## Verklarende woordenlijst
 
-- Git: Versie beheersysteem
-- GitHub: een van de vele websites om samen te werken met git projecten
-- GitHub Desktop: een programma die het makkelijker maakt om met git te werken. Een alternatief is de terminal gebruiken.
-- Repository: De folder die opgenomen is in het git systeem
-- Commit: Een 'save' van de huidige staat van de folders
-- Push/Pull: de manier om de folder op de server en de folder op jouw computer up to date te houden. (je duwt/push jouw wijzinging naar de server)
-- GitHub Pages: de feature waarmee je de bestanden in het git versie systeem beschikbaar kan maken via een url
-- IP adress: de 'postcode' van de server
-- Url: het mooie adres van jouw website
-- Domein: het onderdeel van de url tussen `www` en `/index.html`
-- DNS: Het telefoon boek die bijhoud welk domein bij welk IP adres hoort.
+- `Git:` Versie beheersysteem
+- `GitHub:` een van de vele websites om samen te werken met git projecten
+- `GitHub Desktop:` een programma die het makkelijker maakt om met git te werken. Een alternatief is de terminal gebruiken.
+- `Repository:` De folder die opgenomen is in het git systeem
+- `Commit:` Een 'save' van de huidige staat van de folders
+- `Push/Pull:` de manier om de folder op de server en de folder op jouw computer up to date te houden. (je duwt/push jouw wijzinging naar de server)
+- `GitHub Pages:` de feature waarmee je de bestanden in het git versie systeem beschikbaar kan maken via een url
+- `IP adress:` de 'postcode' van de server
+- `Url:` het mooie adres van jouw website
+- `Domein:` het onderdeel van de url tussen `www` en `/index.html`
+- `DNS:` Het telefoon boek die bijhoud welk domein bij welk IP adres hoort.
 
 ## Installeer Github Desktop
 Om te beginnen downloaden we Github Desktop, dit is een handige interface om met GitHub te werken. https://desktop.github.com/
